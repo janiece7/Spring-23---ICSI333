@@ -13,11 +13,19 @@ Janiece Mary Padilla
 #include <stdio.h>
 int main()
 {
+
+    int inputInteger;
 //Task 1
 // Converting real numbers into binary representation 
 // The whole and fractional parts need different algorithms
 
+// Ask for user Input
 printf("Input a real number:");
+scanf("%d", &inputInteger);
+
+
+
+
 
 // Part 1 converting real number to binary ex
 
